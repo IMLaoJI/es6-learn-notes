@@ -1,5 +1,5 @@
 /**
- * Created by Weil on 16/4/9.
+ * Created by Long on 16/4/9.
  */
 for (var i = 0; i < 3; i++) {
   ;(function (i) {
